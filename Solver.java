@@ -1,7 +1,7 @@
 /* *****************************************************************************
- *  Name:              Alan Turing
- *  Coursera User ID:  123456
- *  Last modified:     1/1/2019
+ *  Name:              Jiaojiao Fan
+ *  Coursera User ID:  sbyebss
+ *  Last modified:     11/15/2019
  **************************************************************************** */
 
 import edu.princeton.cs.algs4.MinPQ;
